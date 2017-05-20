@@ -27,3 +27,6 @@
 
 <p><big>bigtext</big></p> : put bigtext as big text in paragraph
 <p><small>smalltext</small></p> : put smalltext as small text in paragraph
+
+<p><em>emphasizedtext</em></p> : put the emphasizedtext in emphasized mode in paragraph
+<p><strong>strongtext</strong></p> : put the strongtext in strong mode in paragraph
