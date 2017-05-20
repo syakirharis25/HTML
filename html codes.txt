@@ -39,3 +39,5 @@
 <font size="number">text</p></font> : the text in paragraph will be display in the number of font size
 <font color="thecolor"><p>text</p></font> : the text will be display in the paragraph in thecolor of font color
 <font face="style"><p>text</p></font> : the text in paragraph will be display in style of font face
+
+<img src="imagefile" height="percent1" width="percent2" /> : display imagefile image with percent1 height and percent2 width
