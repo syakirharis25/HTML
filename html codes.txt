@@ -1,0 +1,4 @@
+<meta http-equiv="refresh" content="number" /> : refresh the webpage every number seconds
+<meta http-equiv="refresh" content="number;url=webpageaddress" /> : refresh the webpage after number of seconds and redirect to webpageaddress
+
+<title>webpagetitle</title> : display the webpagetitle
