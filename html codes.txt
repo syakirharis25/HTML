@@ -16,3 +16,7 @@
 <pre>text</pre> : display the text just the way it is in HTML editor
 
 <hr /> : make a horizontal line
+
+<p><b>boldtext</b></p> : put the boldtext in bold in the paragraph
+<p><i>italictext</i></p> : put the italictext in italic in the paragraph
+<p><u>underlinedtext</u></p> : put the underlinedtext in underlined in the paragraph
