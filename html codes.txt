@@ -12,3 +12,7 @@
 
 <center><p1>centertext</p1></center> : make the centertext at the center of the paragraph
 <p>&nbsp;text</p> : make a non-breaking space before text in paragraph
+
+<pre>text</pre> : display the text just the way it is in HTML editor
+
+<hr /> : make a horizontal line
