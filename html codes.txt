@@ -9,3 +9,6 @@
 <p>paragraph</p> : add paragraph
 
 <br /> : add line break
+
+<center><p1>centertext</p1></center> : make the centertext at the center of the paragraph
+<p>&nbsp;text</p> : make a non-breaking space before text in paragraph
