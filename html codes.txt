@@ -5,3 +5,7 @@
 
 <h1>heading<h1> : put heading in HTML
 * there are 6 diffrent type of headings in HTML
+
+<p>paragraph</p> : add paragraph
+
+<br /> : add line break
