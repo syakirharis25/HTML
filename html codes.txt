@@ -24,3 +24,6 @@
 <p><strike>strikedtext</strike></p> : strikethrough the strikedtext in paragraph
 <p>text<sup>superscripttext</sup></p> : superscript the superscripttext after text in paragraph
 <p>text<sub>subscripttext</sub><p> : subscript the subscripttext after text in paragraph
+
+<p><big>bigtext</big></p> : put bigtext as big text in paragraph
+<p><small>smalltext</small></p> : put smalltext as small text in paragraph
