@@ -20,3 +20,7 @@
 <p><b>boldtext</b></p> : put the boldtext in bold in the paragraph
 <p><i>italictext</i></p> : put the italictext in italic in the paragraph
 <p><u>underlinedtext</u></p> : put the underlinedtext in underlined in the paragraph
+
+<p><strike>strikedtext</strike></p> : strikethrough the strikedtext in paragraph
+<p>text<sup>superscripttext</sup></p> : superscript the superscripttext after text in paragraph
+<p>text<sub>subscripttext</sub><p> : subscript the subscripttext after text in paragraph
