@@ -30,3 +30,6 @@
 
 <p><em>emphasizedtext</em></p> : put the emphasizedtext in emphasized mode in paragraph
 <p><strong>strongtext</strong></p> : put the strongtext in strong mode in paragraph
+
+<blockquote>wholetext</blockquote> : indent the wholetext
+<q>wholetext</q> : quote, put the double apostrophe to the whole text
