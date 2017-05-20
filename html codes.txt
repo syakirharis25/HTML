@@ -2,3 +2,6 @@
 <meta http-equiv="refresh" content="number;url=webpageaddress" /> : refresh the webpage after number of seconds and redirect to webpageaddress
 
 <title>webpagetitle</title> : display the webpagetitle
+
+<h1>heading<h1> : put heading in HTML
+* there are 6 diffrent type of headings in HTML
