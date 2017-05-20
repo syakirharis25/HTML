@@ -33,3 +33,5 @@
 
 <blockquote>wholetext</blockquote> : indent the wholetext
 <q>wholetext</q> : quote, put the double apostrophe to the whole text
+
+<!-- commenttext --> : put commenttext HTML comment
