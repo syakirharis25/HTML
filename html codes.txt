@@ -50,3 +50,6 @@
 <a href="webpageaddress">
 <img src="picturefile" height="percentheight" width="percentwidth" />
 </a> : link the picturefile with percentheight height and percentwidth width to webpageaddress
+
+<a href="mailto:emailaddress?subject=topic&body=message">
+<p>text</p></a> : send e-mail with subject topic and message to emailaddress, display text
