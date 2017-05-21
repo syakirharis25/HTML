@@ -43,3 +43,6 @@
 <img src="imagefile" height="percent1" width="percent2" /> : display imagefile image with percent1 height and percent2 width
 
 <a href="webaddress">text</a> : anchor link text to the webaddress external link
+
+<a href="#anchoredtext">text1</a>
+<a name="anchoredtext">text2</a> : the href #anchoredtext of text1 will be anchored to name anchoredtext which will display the text2 contents
