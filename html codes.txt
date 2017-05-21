@@ -53,3 +53,33 @@
 
 <a href="mailto:emailaddress?subject=topic&body=message">
 <p>text</p></a> : send e-mail with subject topic and message to emailaddress, display text
+
+<ol>
+	<li>list1</li>
+	<li>list2</li>
+	<li>list3</li>
+</ol> : put list1, list2, list3 under numbered type of ordered list
+
+<ol type="a">
+	<li>list1</li>
+	<li>list2</li>
+	<li>list3</li>
+</ol> : put list1, list2, list3 under lowercase alphabet type of ordered list
+
+<ol type="A">
+	<li>list1</li>
+	<li>list2</li>
+	<li>list3</li>
+</ol> : put list1, list2, list3 under uppercase alphabet type of ordered list
+
+<ol type="i">
+	<li>list1</li>
+	<li>list2</li>
+	<li>list3</li>
+</ol> : put list1, list2, list3 under roman letter type of ordered list
+
+<ol type="I">
+	<li>list1</li>
+	<li>list2</li>
+	<li>list3</li>
+</ol> : put list1, list2, list3 under roman letter type of ordered list
