@@ -114,7 +114,12 @@
 </dl> : put the term and its description under definition list
 
 <audio controls>
-	<source src="audiofile" type="audio/mpeg" />
+	<source src="audiofile" type="audio/format" />
 	<p>errormessage</p>
-</audio> : put audiofile with audio mpeg format into HTML audio control panel,
-if the browser did not support the audiofile audio format, display the errormessage
+</audio> : put audiofile with audio format type into HTML audio control panel,
+if the browser did not support the audiofile audio format, display the errormessage text
+
+<video width="numberofpixel1" height="numberofpixel2""controls>
+	<source src="videofile" type="video/format" />
+	<p>errormessage</p>
+</video> : put videofile with video format type  with numberofpixel1 width and numberofpixel2 height into video control panel, if the browser does not support the file or feature, display errormessage text
