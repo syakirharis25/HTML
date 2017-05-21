@@ -107,3 +107,8 @@
 	<li>text2</li>
 	<li>text3</li>
 </ul> : put text1, text2, text3 under unordered list using circle type of character
+
+<dl>
+	<dt>term</dt>
+	<dd>description</dd>
+</dl> : put the term and its description under definition list
