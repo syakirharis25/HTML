@@ -46,3 +46,7 @@
 
 <a href="#anchoredtext">text1</a>
 <a name="anchoredtext">text2</a> : the href #anchoredtext of text1 will be anchored to name anchoredtext which will display the text2 contents
+
+<a href="webpageaddress">
+<img src="picturefile" height="percentheight" width="percentwidth" />
+</a> : link the picturefile with percentheight height and percentwidth width to webpageaddress
