@@ -112,3 +112,9 @@
 	<dt>term</dt>
 	<dd>description</dd>
 </dl> : put the term and its description under definition list
+
+<audio controls>
+	<source src="audiofile" type="audio/mpeg" />
+	<p>errormessage</p>
+</audio> : put audiofile with audio mpeg format into HTML audio control panel,
+if the browser did not support the audiofile audio format, display the errormessage
