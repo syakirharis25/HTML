@@ -41,3 +41,5 @@
 <font face="style"><p>text</p></font> : the text in paragraph will be display in style of font face
 
 <img src="imagefile" height="percent1" width="percent2" /> : display imagefile image with percent1 height and percent2 width
+
+<a href="webaddress">text</a> : anchor link text to the webaddress external link
