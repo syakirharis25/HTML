@@ -147,7 +147,7 @@ text <input type="checkbox" name="textcheckbox" value="test1" /> : input textche
 
 <input type="file" name="file1" /> : input new file
 
-<input type="submit" value="submitform" /> submit the form, display submitform text button
+<input type="submit" value="submitform" /> : submit the form, display submitform text button
 
 selectyear : <select name="year"> 
 				<option value="1990">1990</option>
