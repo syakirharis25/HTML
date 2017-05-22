@@ -134,3 +134,24 @@ if the browser did not support the audiofile audio format, display the errormess
 </table> : add a table with border of numberopixel1, cellpadding of numberofpixel2, cellspacing of numberofpixel3, and first table row headertext in bold, second table row with descriptiontext
 
 bgcolor="colortext" : set HTML backgroundcolor with colortext
+
+<br /> : break line
+
+inputtext<input type="text" name="firsttext" /> : input firsttext with input type of text
+
+<input type="radio" name="radiotext" value="anyvalue" /> : inp radiotext with anyvalue value with input type of radio
+
+password:<input type="password" name="password" /> : input password with hidden text characters
+
+longtext:<textarea name="writearea"> </textarea> : input writearea with long text
+
+text <input type="checkbox" name="textcheckbox" value="test1" /> : input textcheckbox with checkbox type of input with value test1
+
+<input type="file" name="file1" /> : input new file
+
+<input type="submit" value="submitform" /> submit the form, display submitform text button
+
+selectyear : <select name="year"> 
+				<option value="1990">1990</option>
+				<option value="1991">1991</option>
+			</select> : select year from the option list
