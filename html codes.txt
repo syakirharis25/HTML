@@ -123,3 +123,12 @@ if the browser did not support the audiofile audio format, display the errormess
 	<source src="videofile" type="video/format" />
 	<p>errormessage</p>
 </video> : put videofile with video format type  with numberofpixel1 width and numberofpixel2 height into video control panel, if the browser does not support the file or feature, display errormessage text
+
+<table border="numberofpixel1" cellpadding="numberofpixel2" cellspacing="numberofpixel3">
+	<tr>
+		<th>headertext</th>
+	</tr>
+	<tr>
+		<td>descriptiontext</td>
+	</tr>
+</table> : add a table with border of numberopixel1, cellpadding of numberofpixel2, cellspacing of numberofpixel3, and first table row headertext in bold, second table row with descriptiontext
