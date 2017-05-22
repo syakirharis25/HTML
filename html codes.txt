@@ -132,3 +132,5 @@ if the browser did not support the audiofile audio format, display the errormess
 		<td>descriptiontext</td>
 	</tr>
 </table> : add a table with border of numberopixel1, cellpadding of numberofpixel2, cellspacing of numberofpixel3, and first table row headertext in bold, second table row with descriptiontext
+
+bgcolor="colortext" : set HTML backgroundcolor with colortext
