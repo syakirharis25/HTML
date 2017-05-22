@@ -135,8 +135,6 @@ if the browser did not support the audiofile audio format, display the errormess
 
 bgcolor="colortext" : set HTML backgroundcolor with colortext
 
-<br /> : break line
-
 inputtext<input type="text" name="firsttext" /> : input firsttext with input type of text
 
 <input type="radio" name="radiotext" value="anyvalue" /> : inp radiotext with anyvalue value with input type of radio
