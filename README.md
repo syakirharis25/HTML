@@ -17,7 +17,7 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 
 <a name="references"></a>
 ## Official references websites
-World Wide Web Consortium (W3C) website : https://www.w3.org
+World Wide Web Consortium (W3C) website : https://www.w3.org <br />
 Evolution of the Internet : http://www.evolutionoftheweb.com
 
 <a name="github"></a>
