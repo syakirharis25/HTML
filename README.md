@@ -20,8 +20,26 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 World Wide Web Consortium (W3C) website : https://www.w3.org <br />
 Evolution of the Internet : http://www.evolutionoftheweb.com <br />
 
-**_HTML documentations_** <br />
-\<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
+**_HTML documentations by Mozilla_** <br />
+HTML \<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
+HTML \<span> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span <br />
+HTML Doctype by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Doctype <br />
+HTML lang by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang <br />
+HTML Head by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Head <br />
+HTML <body>: The Document Body element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body <br />
+HTML <div>: The Content Division element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div <br />
+HTML <meta>: The Document-level Metadata element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta <br />
+HTML <title>: The Document Title element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title <br />
+HTML attribute: rel by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel <br />
+
+**_HTML documentations by w3schools.com_** <br />
+HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
+HTML name Attribute by w3schools.com : https://www.w3schools.com/tags/att_name.asp <br />
+HTML content Attribute by w3schools.com : https://www.w3schools.com/tags/att_content.asp <br />
+HTML <a> href Attribute by w3schools.com : https://www.w3schools.com/tags/att_a_href.asp <br />
+  
+**_HTML articles** <br />
+HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
   
 **_HTML developers_** <br />
 Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee <br />
