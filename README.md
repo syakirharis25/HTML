@@ -40,6 +40,8 @@ HTML name Attribute by w3schools.com : https://www.w3schools.com/tags/att_name.a
 HTML content Attribute by w3schools.com : https://www.w3schools.com/tags/att_content.asp <br />
 HTML \<a> href Attribute by w3schools.com : https://www.w3schools.com/tags/att_a_href.asp <br />
 HTML The class Attribute by w3schools.com : https://www.w3schools.com/html/html_classes.asp <br />
+HTML \<li> Tag by w3schools.com : https://www.w3schools.com/tags/tag_li.asp <br />
+HTML \<ul> Tag by w3schools.com : https://www.w3schools.com/tags/tag_ul.asp <br />
   
 **_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
