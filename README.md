@@ -26,10 +26,10 @@ HTML \<span> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Elem
 HTML Doctype by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Doctype <br />
 HTML lang by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang <br />
 HTML Head by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Head <br />
-HTML <body>: The Document Body element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body <br />
-HTML <div>: The Content Division element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div <br />
-HTML <meta>: The Document-level Metadata element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta <br />
-HTML <title>: The Document Title element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title <br />
+HTML \<body>: The Document Body element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body <br />
+HTML \<div>: The Content Division element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div <br />
+HTML \<meta>: The Document-level Metadata element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta <br />
+HTML \<title>: The Document Title element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title <br />
 HTML attribute: rel by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel <br />
 
 **_HTML documentations by w3schools.com_** <br />
