@@ -21,7 +21,7 @@ World Wide Web Consortium (W3C) website : https://www.w3.org <br />
 Evolution of the Internet : http://www.evolutionoftheweb.com <br />
 
 **_HTML documentations_**
-<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
+\<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
   
 **_HTML developers_**
 Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee <br />
