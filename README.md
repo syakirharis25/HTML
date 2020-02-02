@@ -1,4 +1,4 @@
-My works related to Hypertext Markup Language (HTML)
+My works related to Hypertext Markup Language (HTML).
 
 ## Table of Contents
 1. [Introduction.](#introduction)
