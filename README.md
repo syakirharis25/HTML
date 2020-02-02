@@ -55,6 +55,7 @@ HTML Forms by w3schools.com : https://www.w3schools.com/html/html_forms.asp <br 
 HTML <i> Tag by w3schools.com : https://www.w3schools.com/tags/tag_i.asp <br />
 HTML Symbols by w3schools.com : https://www.w3schools.com/html/html_symbols.asp <br />
 HTML DOM addEventListener() Method by w3schools.com : https://www.w3schools.com/jsref/met_document_addeventlistener.asp <br />
+HTML Select add() Method by w3schools.com : https://www.w3schools.com/jsref/met_select_add.asp <br />
 
 **_HTML questions and answers by Stack Overflow_** <br />
 What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : https://stackoverflow.com/questions/41394896/what-if-i-use-instead-of-in-href-of-anchor-tag-a <br />
