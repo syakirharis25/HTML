@@ -48,7 +48,10 @@ HTML \<ul> Tag by w3schools.com : https://www.w3schools.com/tags/tag_ul.asp <br 
 HTML \<input type="submit"> by w3schools.com : https://www.w3schools.com/tags/att_input_type_submit.asp <br />
 HTML HTTP Request Methods by w3schools.com : https://www.w3schools.com/tags/ref_httpmethods.asp <br />
 HTML Forms by w3schools.com : https://www.w3schools.com/html/html_forms.asp <br />
-  
+
+**_HTML questions and answers by Stack Overflow _** <br />
+What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : https://stackoverflow.com/questions/41394896/what-if-i-use-instead-of-in-href-of-anchor-tag-a <br />
+
 **_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
   
