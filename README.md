@@ -35,7 +35,7 @@ HTML id by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_at
 HTML \<nav>: The Navigation Section element Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav <br />
 HTML \<main> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main <br />
 HTML \<section>: The Generic Section element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section <br />
-HTML \<h1>–<h6>: The HTML Section Heading elements by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements <br />
+HTML \<h1>–\<h6>: The HTML Section Heading elements by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
@@ -45,7 +45,7 @@ HTML \<a> href Attribute by w3schools.com : https://www.w3schools.com/tags/att_a
 HTML The class Attribute by w3schools.com : https://www.w3schools.com/html/html_classes.asp <br />
 HTML \<li> Tag by w3schools.com : https://www.w3schools.com/tags/tag_li.asp <br />
 HTML \<ul> Tag by w3schools.com : https://www.w3schools.com/tags/tag_ul.asp <br />
-HTML /<input type="submit"> by w3schools.com : https://www.w3schools.com/tags/att_input_type_submit.asp <br />
+HTML \<input type="submit"> by w3schools.com : https://www.w3schools.com/tags/att_input_type_submit.asp <br />
 HTML HTTP Request Methods by w3schools.com : https://www.w3schools.com/tags/ref_httpmethods.asp <br />
 HTML Forms by w3schools.com : https://www.w3schools.com/html/html_forms.asp <br />
   
