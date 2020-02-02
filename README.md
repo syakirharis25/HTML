@@ -31,12 +31,14 @@ HTML \<div>: The Content Division element by Mozilla : https://developer.mozilla
 HTML \<meta>: The Document-level Metadata element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta <br />
 HTML \<title>: The Document Title element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title <br />
 HTML attribute: rel by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel <br />
+HTML id by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
 HTML name Attribute by w3schools.com : https://www.w3schools.com/tags/att_name.asp <br />
 HTML content Attribute by w3schools.com : https://www.w3schools.com/tags/att_content.asp <br />
 HTML <a> href Attribute by w3schools.com : https://www.w3schools.com/tags/att_a_href.asp <br />
+HTML The class Attribute by w3schools.com : https://www.w3schools.com/html/html_classes.asp <br />
   
 **_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
