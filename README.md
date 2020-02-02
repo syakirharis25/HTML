@@ -35,7 +35,7 @@ HTML id by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_at
 HTML \<nav>: The Navigation Section element Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav <br />
 HTML \<main> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main <br />
 HTML \<section>: The Generic Section element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section <br />
-HTML <h1>–<h6>: The HTML Section Heading elements by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements <br />
+HTML \<h1>–<h6>: The HTML Section Heading elements by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
