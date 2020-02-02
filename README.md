@@ -20,6 +20,10 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 World Wide Web Consortium (W3C) website : https://www.w3.org <br />
 Evolution of the Internet : http://www.evolutionoftheweb.com <br />
 
+Mozilla official website : https://www.mozilla.org <br />
+Stack Overflow question and answer site : https://stackoverflow.com <br />
+W3Schools educational website : https://www.w3schools.com <br />
+
 **_HTML documentations by Mozilla_** <br />
 HTML \<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
 HTML \<span> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span <br />
