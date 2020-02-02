@@ -33,6 +33,7 @@ HTML \<title>: The Document Title element by Mozilla : https://developer.mozilla
 HTML attribute: rel by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel <br />
 HTML id by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id <br />
 HTML \<nav>: The Navigation Section element Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav <br />
+HTML \<main> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
