@@ -16,9 +16,15 @@ Web browsers receive HTML documents from a web server or from local storage and 
 HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as `<img>` and `<input>` directly introduce content into the page. Other tags such as `<p>` surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
 
 <a name="references"></a>
-## Official references websites
+## Official references websites <br />
 World Wide Web Consortium (W3C) website : https://www.w3.org <br />
-Evolution of the Internet : http://www.evolutionoftheweb.com
+Evolution of the Internet : http://www.evolutionoftheweb.com <br />
+
+**_HTML documentations_** <br />
+<header> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header <br />
+  
+**_HTML developers_**
+Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee
 
 <a name="github"></a>
 ## GitHub notes
