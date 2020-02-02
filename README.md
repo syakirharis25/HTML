@@ -38,7 +38,7 @@ HTML name Attribute by w3schools.com : https://www.w3schools.com/tags/att_name.a
 HTML content Attribute by w3schools.com : https://www.w3schools.com/tags/att_content.asp <br />
 HTML <a> href Attribute by w3schools.com : https://www.w3schools.com/tags/att_a_href.asp <br />
   
-**_HTML articles** <br />
+**_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
   
 **_HTML developers_** <br />
