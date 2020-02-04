@@ -3,10 +3,11 @@ My works related to Hypertext Markup Language (HTML).
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [HTML special characters.](#special)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
-## Introduction
+## 1. Introduction.
 <img src="HTML.jpg" height="150">
 
 Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
@@ -16,7 +17,7 @@ Web browsers receive HTML documents from a web server or from local storage and 
 HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as `<img>` and `<input>` directly introduce content into the page. Other tags such as `<p>` surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
 
 <a name="references"></a>
-## Official references websites <br />
+## 2. Official references websites. <br />
 World Wide Web Consortium (W3C) website : https://www.w3.org <br />
 Evolution of the Internet : http://www.evolutionoftheweb.com <br />
 
@@ -70,8 +71,14 @@ HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.htm
 **_HTML developers_** <br />
 Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee <br />
 
+<a name="special"></a>
+## 3. HTML special characters.
+To print special character in HTML format, refer to the HTML Codes Table : https://ascii.cl/htmlcodes.htm
+
+For example to print special character representing copyright, simply type **&copy** using your computer keyboard.
+
 <a name="github"></a>
-## GitHub notes
+## 4. GitHub notes.
 Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
