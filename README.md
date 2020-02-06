@@ -65,6 +65,7 @@ HTML \<input> Tag by w3schools.com : https://www.w3schools.com/tags/tag_input.as
 HTML \<input> placeholder Attribute by w3schools.com : https://www.w3schools.com/tags/att_input_placeholder.asp <br />
 HTML canvas rect() Method by w3schools.com : https://www.w3schools.com/tags/canvas_rect.asp <br />
 HTML Window top Property by w3schools.com : https://www.w3schools.com/jsref/prop_win_top.asp <br />
+HTML DOM contains() Method by w3schools.com : https://www.w3schools.com/jsref/met_node_contains.asp <br />
 
 **_HTML questions and answers by Stack Overflow_** <br />
 What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : https://stackoverflow.com/questions/41394896/what-if-i-use-instead-of-in-href-of-anchor-tag-a <br />
