@@ -42,6 +42,8 @@ HTML \<main> by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Elem
 HTML \<section>: The Generic Section element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section <br />
 HTML \<h1>–\<h6>: The HTML Section Heading elements by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements <br />
 HTML \<br>: The Line Break element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br <br />
+HTML ARIA by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA <br />
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
@@ -72,6 +74,7 @@ What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : htt
 
 **_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
+Using the aria-label attribute by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute
   
 **_HTML developers_** <br />
 Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee <br />
