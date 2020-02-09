@@ -44,7 +44,8 @@ HTML \<h1>–\<h6>: The HTML Section Heading elements by Mozilla : https://devel
 HTML \<br>: The Line Break element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br <br />
 HTML ARIA by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA <br />
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute <br />
-HTML <strong>: The Strong Importance element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong <br />
+HTML \<strong>: The Strong Importance element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong <br />
+HTML \<script>: The Script element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script <br />
 
 **_HTML documentations by w3schools.com_** <br />
 HTML Links by w3schools.com : https://www.w3schools.com/html/html_links.asp <br />
