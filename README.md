@@ -5,6 +5,7 @@ My works related to Hypertext Markup Language (HTML).
 2. [Official references websites.](#references)
 3. [HTML special characters.](#special)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -97,3 +98,17 @@ $ git remote add origin https://github.com/syakirharis25/HTML.git
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+HTML                            39             58              5            699
+Markdown                         1             15              0             78
+-------------------------------------------------------------------------------
+SUM:                            40             73              5            777
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
