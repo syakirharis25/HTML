@@ -80,7 +80,6 @@ HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.htm
 Using the aria-label attribute by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute <br />
 Using data attributes by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes <br />
   
-**_HTML developers_** <br />
 Hypertext Markup Language (HTML) was created by Sir Timothy John Berners-Lee : https://github.com/timbl, https://twitter.com/timberners_lee, https://www.w3.org/People/Berners-Lee <br />
 
 <a name="special"></a>
