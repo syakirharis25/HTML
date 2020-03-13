@@ -77,6 +77,7 @@ HTML \<form> Tag by w3schools.com : https://www.w3schools.com/tags/tag_form.asp 
 HTML \<label> Tag by w3schools.com : https://www.w3schools.com/tags/tag_label.asp <br />
 HTML <select> Tag by w3schools.com : https://www.w3schools.com/tags/tag_select.asp <br />
 HTML <option> Tag by w3schools.com : https://www.w3schools.com/tags/tag_option.asp <br />
+HTML <input> placeholder Attribute by w3schools.com : https://www.w3schools.com/tags/att_input_placeholder.asp <br />
 
 **_HTML questions and answers by Stack Overflow_** <br />
 What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : https://stackoverflow.com/questions/41394896/what-if-i-use-instead-of-in-href-of-anchor-tag-a <br />
