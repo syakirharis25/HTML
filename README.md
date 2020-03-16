@@ -79,9 +79,11 @@ HTML <select> Tag by w3schools.com : https://www.w3schools.com/tags/tag_select.a
 HTML <option> Tag by w3schools.com : https://www.w3schools.com/tags/tag_option.asp <br />
 HTML <input> placeholder Attribute by w3schools.com : https://www.w3schools.com/tags/att_input_placeholder.asp <br />
 HTML DOM className Property by w3schools.com : https://www.w3schools.com/jsref/prop_html_classname.asp <br />
+HTML <script> defer Attribute by w3schools.com : https://www.w3schools.com/tags/att_script_defer.asp <br />
 
 **_HTML questions and answers by Stack Overflow_** <br />
 What if I use #! instead of # in href of anchor tag <a>? by Stack Overflow : https://stackoverflow.com/questions/41394896/what-if-i-use-instead-of-in-href-of-anchor-tag-a <br />
+What does <meta http-equiv=“X-UA-Compatible” content=“IE=edge”> do? by Stack Overflow : https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do <br />
 
 **_HTML articles_** <br />
 HTML Document Character Set : https://www.w3.org/TR/WD-html40-970708/charset.html <br />
